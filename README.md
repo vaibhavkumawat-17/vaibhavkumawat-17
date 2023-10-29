@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkumawat-17&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkumawat-17" /> </p>
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vaibhavkumawat-17&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)  -->
 
 ### 
 
@@ -15,6 +15,7 @@
 
 <br> 💡 With a strong tech inclination, I'm majoring in computer science while also diving into mechatronics through a minor. I thrive on connecting with the tech community and believe in the power of knowledge sharing - it's all about connecting those dots in the tech world! 🌐 <br>
 
+
 <br> 🚀 Beyond design, I'm digging into data structures and algorithms, excited to merge creativity with a solid understanding. 📚 Strengthening my problem-solving abilities is always a priority. <br>
 
 <br> 🔍 Peering into the future, I'm eagerly seeking fascinating research projects. 🚀 If you're up for a mind-expanding journey, let's team up and explore together! 💡 <br>
@@ -28,6 +29,8 @@
 </p>
 
 ###
+---
+
 
 <h2 align="left">💻 Tech Stack</h2>
 
@@ -69,22 +72,15 @@
 <h2 align="left">⚡️Stats</h2>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumawat-17&show_icons=true&locale=en&theme=dark" alt="Github stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumawat-17&show_icons=true&locale=en&theme=dark" alt="Github stats" />
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkumawat-17&theme=github-dark" alt="github streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumawat-17&langs_count=8&theme=blue-green" alt="most used languages" />
+    
 </div>
 
 ###
 
+
 <!-- 
 <h2 align="left">🛒Support:</h2>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/vaibhav.kumawat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/vaibhav.kumawat" /></a></p><br><br> -->
-
-
-
-
-
-
-
-
-
