@@ -7,23 +7,27 @@
 <p align="left" >
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 <br> 👋 Hey there! I'm Vaibhav Kumawat, Currently a sophomore at Navrachana University, majoring in computer science with a minor in mechatronics. Passionate about leveraging AI and emerging technologies to tackle real-world challenges. Proficient in crafting engaging frontend experiences and UI/UX solutions.
+<br>
 
 <br> 
 🚀 Actively involved in the tech community, seeking opportunities for collaboration and continuous learning. Dedicated to honing competitive coding skills and exploring research avenues. 
+<br>
 
 <br>
 🌱 Currently serving as a designing lead at GDSC NUV. Eagerly seeking opportunities for professional growth and making impactful contributions in both technology and design fields. 
+<br>
 
 <br> 
 📄 Need help with Designing, front-end work, or tools like Figma and Canva? Consider me your go-to guru. 
-
+<br>
 
 <br>
 🔗 Curious to dive deeper into my journey and ventures? Feel free to peek into my adventure log at: https://read.cv/vaibhav_kumawat 
-
+<br>
 
 <br> 
 👨‍💻 Let's connect and collaborate! 🤝 
+
 
 </p>
 
